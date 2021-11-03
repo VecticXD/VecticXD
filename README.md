@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and making game cheats and other kinds of programs
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on game related projects
-- 📫 How to reach me discord-Notvectic#9341
+- 📫 How to reach me discord-Vectic#9341
 
 
 <!---
